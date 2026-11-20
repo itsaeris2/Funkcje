@@ -1,2 +1,1 @@
-Nie skonczone
-ale cos tam zrobilem
+Skonczone (lepiej skonczone niz nie skonczone)
