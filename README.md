@@ -1,1 +1,1 @@
-Skonczone (lepiej skonczone niz nie skonczone)
+Jest to nowe ponieważ chciałem utworzyć branch przez przypadek updatowałem maina a teraz wstawiłem ten wcześniejszy kod
